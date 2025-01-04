@@ -8,15 +8,7 @@ body{
   font-family: 'Mountains of Christmas', cursive;
 }
 .snow-container {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  pointer-events: none;
-  z-index: 2;
-  perspective: 1000px;
-}
+ 
 
 .snow {
   position: absolute;
@@ -24,7 +16,7 @@ body{
   height: 10px;
   background: white;
   border-radius: 50%;
-  filter: blur(1px);
+  filter: blur(22px);
   animation: snowfall linear forwards;
 }
 

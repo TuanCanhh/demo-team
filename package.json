@@ -7,9 +7,6 @@
     "build": "parcel build index.html"
   },
   "author": "",
-  "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "parcel": "^2.13.2"
+  "
   }
 }
